@@ -13,8 +13,10 @@ This is the final project for Human Computer Interaction ACS 56400.
 
 ### New design
 
-* Desktop view
+#### Desktop view
+
 ![new_worksheet](https://github.com/Ronaldzzzzz/Redesign-myBLUEprint/blob/main/image/new_worksheet.jpg)
 
-* Mobile view
+#### Mobile view  
+
 ![new_worksheet_mobile](https://github.com/Ronaldzzzzz/Redesign-myBLUEprint/blob/main/image/new_worksheet_mobile.jpg)
